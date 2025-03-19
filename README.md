@@ -1,5 +1,8 @@
 # able
 종합설계 프로젝트
+*MyDiaries.js 일기 목록 확인
+*Diaries.js 일기 작성 
+*EditDiaries.js 일기 수정 
 
 현재 진행상황
 1. 회원가입
